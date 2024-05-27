@@ -1,16 +1,7 @@
-# movies_app
+movies_app
 
-A new Flutter project.
+![Screenshot_1716820142](https://github.com/MohamedMarzouk5/movies_app/assets/149074643/f37e2913-0070-4071-9112-6c8d25053bba)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    1. Clean Architecture. 
+    2. Bloc statemanagment.
+    3. Restful API.
